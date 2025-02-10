@@ -1,19 +1,19 @@
-# CarFigures | Terms of Service
+# Geodex | Terms of Service
 
-Welcome to CarFigures, the interactive car collecting and trading Discord bot!\
-Before you start using CarFigures, please carefully read and agree to the following Terms of Service and Rules.\
-By using CarFigures, you indicate your acceptance of these terms and your commitment to adhere to the rules.
+Welcome to Geodex, the interactive car collecting and trading Discord bot!\
+Before you start using Geodex, please carefully read and agree to the following Terms of Service and Rules.\
+By using Geodex, you indicate your acceptance of these terms and your commitment to adhere to the rules.
 
 ## Glossary Collectible:
-any virtual object that is meant to be collected through the bot, such as CarFigures or other means like virtual currency.
+any virtual object that is meant to be collected through the bot, such as Geodex or other means like virtual currency.
 
 ## Usage Agreement:
-By using the CarFigures Discord bot, you agree to follow these terms and rules.\
+By using the Geodex Discord bot, you agree to follow these terms and rules.\
 If you do not agree, please refrain from using the bot.\
 **Servers are responsible for their members and access may be revoked if deemed necessary.**
 
 ## Bot Functionality:
-CarFigures allows you to catch, collect, and trade virtual cars, referred to as "collectibles" in these terms.\
+Geodex allows you to catch, collect, and trade virtual cars, referred to as "collectibles" in these terms.\
 The **primary** purpose of the bot is entertainment, and it is not intended for any real-world transactions.
 
 ## User Conduct:
@@ -30,7 +30,7 @@ We do not reverse trades unless it is absolutely necessary.\
 We encourage people to be aware of what they're trading and receiving and to make use of the lock and confirm functionality.
 
 ## Privacy and Data:
-CarFigures collects minimal user data necessary for its functionality.\
+Geodex collects minimal user data necessary for its functionality.\
 We do not share this data with third parties.\
 Do not share personal information, including:
 - Passwords
@@ -48,7 +48,7 @@ Array_YE is not responsible for any loss, damage, or inconvenience caused by the
 Use the bot at your own risk.
 
 ## Availability:
-CarFigures is provided as-is.\
+Geodex is provided as-is.\
 There are no guarantees that it will be available in the future, and its purpose or availability may be changed at any time.
 - User related data including backups may be deleted at any time.
 - User related data including backups is non-transferable between discord accounts.
@@ -59,7 +59,7 @@ JRuntime reserve the right to restrict usage of the bot or certain features to a
 If you witness any violations of these terms and rules, please report them,
 failure to do so may result in possible action, not limited to blacklisting.
 
-By using CarFigures, you agree to abide by these terms and rules.\
+By using Geodex, you agree to abide by these terms and rules.\
 Failure to comply with these rules will result in appropriate punishment determined by the bot staff.
 
 Remember that CarFigures is meant to be a fun and engaging experience for everyone,
